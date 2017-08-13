@@ -3,9 +3,9 @@ import {render} from 'react-dom';
 import {AppContainer} from 'react-hot-loader';
 import App from './components/AppComponent.jsx';
 import {Provider} from 'mobx-react';
-// import 'jquery';
-// import 'bootstrap/dist/js/bootstrap.min';
-// import './styles/App.scss';
+import 'jquery';
+import 'bootstrap/dist/js/bootstrap.min';
+import '../styles/App.scss';
 
 
 render(

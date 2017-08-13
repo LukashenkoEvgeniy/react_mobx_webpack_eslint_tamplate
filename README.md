@@ -1,4 +1,4 @@
-# Template with using mobx, react, webpack, eslint
+# Template with using mobx, react, webpack, eslint, scss
 
 ## Usage
 
