@@ -1,4 +1,4 @@
-# New web client for Delta
+# Template with using mobx, react, webpack, eslint
 
 ## Usage
 
