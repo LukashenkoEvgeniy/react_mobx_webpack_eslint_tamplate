@@ -1,0 +1,4 @@
+node_modules/*
+dist/*
+/src/components/navigationBar/icons.jsx
+/src/components/addons/Icon.jsx
